@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ../Userss123Terra-Datascience
+    url = C:\Users\s123\Terra-Datascience
